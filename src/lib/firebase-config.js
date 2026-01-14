@@ -11,7 +11,7 @@ import { getFirestore, setLogLevel } from "firebase/firestore";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCUedQHFvd5OWpKJYmcDaPaSXaPbt9poTE",
+  apiKey: "",
   authDomain: "lia-project-630c0.firebaseapp.com",
   projectId: "lia-project-630c0",
   storageBucket: "lia-project-630c0.firebasestorage.app",
