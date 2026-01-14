@@ -3,7 +3,7 @@
 
 **LIA** (Localization Intelligent Automated) es una aplicación **web y móvil** desarrollada con **Next.js**, diseñada para mejorar la **orientación y movilidad en campus universitarios**.  
 Permite a los usuarios **buscar ubicaciones específicas** (salones, oficinas, laboratorios) y colaborar en tiempo real para reportar cambios, reubicaciones o actualizaciones en la infraestructura.
-![LIA Banner](./public/lia-folio
+<img src="./public/lia-folio.jpeg" alt="LIA Banner" width
 Características principales
 
 - **Búsqueda inteligente** de puntos específicos en el campus.
